@@ -1,0 +1,8 @@
+flask
+numpy
+pillow
+tensorflow
+transformers
+torch
+opencv-python-headless
+soundfile
